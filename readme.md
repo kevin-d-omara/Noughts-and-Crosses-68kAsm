@@ -7,3 +7,5 @@ Intended for use with the BSVC simulator on San Diego State University's Rohan.
   * Variable grid size (max 9x9).
   * Variable win condition (max 9 in a row).
   * Default setup for quick play.
+
+![Image](<http://i.imgur.com/pd2m0g3.png>)
